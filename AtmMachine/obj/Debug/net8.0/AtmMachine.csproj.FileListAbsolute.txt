@@ -1,0 +1,14 @@
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/bin/Debug/net8.0/AtmMachine
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/bin/Debug/net8.0/AtmMachine.deps.json
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/bin/Debug/net8.0/AtmMachine.runtimeconfig.json
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/bin/Debug/net8.0/AtmMachine.dll
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/bin/Debug/net8.0/AtmMachine.pdb
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.AssemblyInfoInputs.cache
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.AssemblyInfo.cs
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.csproj.CoreCompileInputs.cache
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.dll
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/refint/AtmMachine.dll
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.pdb
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/AtmMachine.genruntimeconfig.cache
+/home/jayson/Desktop/core/projects/c#/AtmMachine/AtmMachine/obj/Debug/net8.0/ref/AtmMachine.dll
