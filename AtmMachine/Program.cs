@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
+//  Author:  JaySon
+// jaysonceojaytech@gmail.com
+
+
 class Program
 {
     static Dictionary<string, Account> accounts = new Dictionary<string, Account>();
